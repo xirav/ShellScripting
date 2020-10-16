@@ -50,4 +50,10 @@ echo "Hours per day : " ${perDayHoursDone[@]}
 echo "wages per day : " ${dayWiseWageStorage[@]}
 echo "days in dictionary : " ${!dayWiseWageStorage[@]}
 
+<<<<<<< HEAD
 #end
+=======
+
+##test branch
+##END
+>>>>>>> test
